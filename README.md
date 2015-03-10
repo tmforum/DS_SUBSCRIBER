@@ -12,7 +12,7 @@ Installation
 Unzip `target/subscriber-2.0.zip` in your destination directory
 
 ```	
-/api-subscriber-1.0
+/subscriber-2.0
    /angularUI
    /lib
    /postman
